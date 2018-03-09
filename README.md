@@ -23,6 +23,6 @@ File tree:
 This is a __maven__ project developed in __Eclipse IDE__, so just clone it and import as __Maven project__
 
 ### Change configurations
-I don't loose enought time to parametrize the config values. 
+I don't lost enought time to parametrize the config values. 
 * You can found db configuration in __config__ folder
 * Which db will be used is written in __UserDAO.java__ constructor
